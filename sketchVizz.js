@@ -1,0 +1,5 @@
+voronoi(100,1,0)
+  .kaleid(10)
+  .color(4.9,1.2,5)
+  .mult(noise(6,0.1))
+  .out()
